@@ -1,0 +1,4 @@
+student_name,institution_code,apaar_ref,programme,category
+Demo Student One,DEMO-AI-01,DEMO-APAAR-2001,B.Tech CSE,General
+Demo Student Two,DEMO-AI-01,,B.Tech ECE,General
+Demo Student Three,DEMO-NV-02,DEMO-APAAR-2001,B.Tech IT,General
